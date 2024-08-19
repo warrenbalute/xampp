@@ -1,0 +1,10 @@
+[Mon Aug 19 13:58:17.934347 2024] [ssl:warn] [pid 17248:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 19 13:58:18.068865 2024] [ssl:warn] [pid 17248:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 19 13:58:18.698906 2024] [mpm_winnt:notice] [pid 17248:tid 672] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.15 configured -- resuming normal operations
+[Mon Aug 19 13:58:18.698906 2024] [mpm_winnt:notice] [pid 17248:tid 672] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Mon Aug 19 13:58:18.698906 2024] [core:notice] [pid 17248:tid 672] AH00094: Command line: 'c:\\users\\warrenbalute\\xampp\\apache\\bin\\httpd.exe -d C:/Users/warrenbalute/xampp/apache'
+[Mon Aug 19 13:58:18.703905 2024] [mpm_winnt:notice] [pid 17248:tid 672] AH00418: Parent: Created child process 16084
+[Mon Aug 19 13:58:19.287617 2024] [ssl:warn] [pid 16084:tid 692] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 19 13:58:19.455666 2024] [ssl:warn] [pid 16084:tid 692] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 19 13:58:19.488727 2024] [mpm_winnt:notice] [pid 16084:tid 692] AH00354: Child: Starting 150 worker threads.
+[Mon Aug 19 14:05:56.955727 2024] [:error] [pid 16084:tid 2012] [client ::1:59837] script 'C:/Users/warrenbalute/xampp/htdocs/home.php' not found or unable to stat
